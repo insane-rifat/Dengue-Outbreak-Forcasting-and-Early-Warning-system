@@ -30,3 +30,4 @@ It does not:
 Diagnose anyone. It never decides whether a person has dengue. It forecasts hospital admissions for a region.
 Use patient-level data. Only public aggregate counts and weather data are used.
 Replace DGHS, IEDCR or official warnings. Forecasts are estimates.
+
